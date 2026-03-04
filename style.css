@@ -14,7 +14,7 @@ body {
 
 /* 顶部导航栏样式 - 深蓝色 */
 .navbar {
-    background-color: #003366; /* 深蓝色主背景 */
+    background-color: #f7941d; /* 橙色主背景 */
     display: flex;
     align-items: center;
     padding: 0 20px;
@@ -28,7 +28,7 @@ body {
     font-size: 18px;
     font-weight: bold;
     padding: 15px 20px;
-    background-color: #002244; /* 更深的蓝色logo背景 */
+    background-color: #e67e22; /* 更深的橙色logo背景 */
 }
 
 .nav-tabs {
@@ -45,7 +45,7 @@ body {
 }
 
 .nav-tab:hover {
-    background-color: #004488; /* 悬停时的浅蓝色 */
+    background-color: #e67e22; /* 悬停时的深橙色（与logo背景一致） */
 }
 
 .nav-tab:hover .submenu {
